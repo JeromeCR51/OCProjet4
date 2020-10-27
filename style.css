@@ -26,7 +26,14 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+aside{
+    font-size: 20px;
+    color: #000000;
+}
+figcaption{
+    font-size: 10px;
+    color: #484848;
+}
 .bloc {
     width: 100%;
     clear: both;
