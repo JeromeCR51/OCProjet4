@@ -200,10 +200,10 @@ article p{
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
+/*.d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
-}
+}*/
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -710,8 +710,8 @@ label,
 }
 
 h2 {
-    font-size: 22px;
-    line-height: 1.4em;
+    font-size: 30px;
+    /*line-height: 1.4em;*/
 }
 
 h3 {
