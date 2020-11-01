@@ -26,12 +26,12 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-aside{
+article{
     font-size: 20px;
     color: #000000;
 }
-figcaption{
-    font-size: 15px;
+.maxime{
+    font-size: 20px;
     color: #484848;
 }
 .bloc {
