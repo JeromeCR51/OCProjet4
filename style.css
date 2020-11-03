@@ -729,7 +729,7 @@ h2 {
 }
 
 h1 {
-    color: #333333!important;
+   /* color: #333333!important;*/
 }
 
 h4 {
@@ -781,7 +781,6 @@ h4 {
 }
 
 .tc-white {
-    background-color: : #F3976C;
     text-align: center;
 }
 
