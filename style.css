@@ -698,7 +698,7 @@ label,
 
 .cta-hero {
     margin-top: 22px;
-    color: #1F1F1F; /*MODIF*/
+    /*color: #1F1F1F; MODIF*/
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -786,7 +786,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-   /* color: #1F1F1F;  MODIF*/
+    color: #1F1F1F; /*modif*/
 }
 
 .btn-atomic-tangerine:hover {
