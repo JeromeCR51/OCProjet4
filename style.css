@@ -57,6 +57,7 @@ article p{
 }*/
 
 .bloc-lg {
+	text-align: center;
     padding: 50px 0; /*modif*/
 }
 
@@ -205,10 +206,10 @@ article p{
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
+/*.d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
-}
+}*/
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -741,7 +742,8 @@ h3 {
    color: #333333!important;
 }*/
 
-h4 {
+.titre-principal {
+	text-align: center;
 	font-size: 3em;
     color: #333333!important;
 }
