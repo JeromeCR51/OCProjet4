@@ -9,6 +9,7 @@ body {
 }
 
 a, button {
+	text-decoration: none;
     transition: all .3s ease-in-out;
     outline: none!important;
 }
@@ -45,8 +46,9 @@ article p{
     background-size: cover;
     position: relative;
 }
+
 .col-sm-6{
-    padding-bottom: 60px;
+    padding-bottom: 25px;
 }
 
 /*.bloc .container {
@@ -55,7 +57,7 @@ article p{
 }*/
 
 .bloc-lg {
-    padding: 100px 0; /*modif*/
+    padding: 50px 0; /*modif*/
 }
 
 .bloc-md {
@@ -713,6 +715,7 @@ label,
     display: flex;
     justify-content: space-around;
     max-width: 400px;
+    padding-top: 25px;
     margin: auto auto auto auto;
 }
 
@@ -748,6 +751,7 @@ h4 {
 }
 
 .white{
+	font-size: 22px;
     font-weight: bold; /*modif*/
     color: #1F1F1F;
 }
@@ -756,10 +760,10 @@ h4 {
     margin-bottom: 24px;
 }
 
-.portfolio-row {
+/*.portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
-}
+}*/
 
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
