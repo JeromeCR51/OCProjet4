@@ -38,7 +38,7 @@ article p{
     width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
+    /*padding: 0 50px;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -49,10 +49,10 @@ article p{
     padding-bottom: 60px;
 }
 
-.bloc .container {
+/*.bloc .container {
     padding-left: 0;
     padding-right: 0;
-}
+}*/
 
 .bloc-lg {
     padding: 100px 0; /*modif*/
@@ -295,6 +295,7 @@ article p{
 .navbar {
 	display: flex;
 	justify-content: space-around;
+	align-items: baseline;
     margin-bottom: 0;
     z-index: 1;
 }
@@ -733,9 +734,9 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
+/*h1 {
    color: #333333!important;
-}
+}*/
 
 h4 {
     color: #333333!important;
